@@ -1,0 +1,100 @@
+body {
+  margin-top:30px;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align:center;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+*{
+  text-align: center;
+  color: black;
+  text-shadow: white 2px 2px 2px;
+}
+body{
+  background-color:#dddddd;
+  background-size: cover;
+}
+
+li {
+  display: inline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  display: inline-block;
+  padding: 10px;
+  background-color: #dddddd;
+}
+img{
+    height: 400px;
+    width: 80%;
+}
+/*end*/
+/*About css*/
+*{
+  text-align: center;
+}
+body {
+  /* Typography Declarations */
+  color: #222222;
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+.masthead {
+  padding: 6em 0;
+  background-image: url('https://i.imgur.com/yGmrlyg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-top: solid 1em #FFCF33;
+}
+h2 {
+  /* Typography Declarations */
+  font-family: "Gentium Book Basic", Georgia, serif;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.introduction
+.location,
+.questions{
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+}
+
+li {
+display: inline;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+a {
+display: inline-block;
+padding: 10px;
+background-color: #dddddd;
+}
+/*end*/
+/*contact css*/
+li {
+  display: inline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  display: inline-block;
+  padding: 10px;
+  background-color: #dddddd;
+}

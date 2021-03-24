@@ -1,0 +1,19 @@
+//- form.form(action='/todo/#{id}?_method=PUT', method='post')
+//-   .form-group
+//-     label(for='title') Title
+//-     input#title.form-control(value='#{title}', type='text', placeholder='Enter a todo', name='title')
+//-   .form-group
+//-     label(for='description') Description
+//-     textarea#description.form-control(value='#{description}', type='text', placeholder='Enter a description', name='description')
+//-   .form-group
+//-     label(for='priority') Priority
+//-     select#{priority}.form-control(name='priority')
+//-       | #{select priority}
+//-       option(value='1') 1
+//-       option(value='2') 2
+//-       option(value='3') 3
+//-       option(value='4') 4
+//-       option(value='5') 5
+//-       |       
+//-   button.btn.btn-default.btn-danger(type='submit')
+//-     | Update
